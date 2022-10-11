@@ -1,0 +1,28 @@
+{
+  "name": "Sandy Caba",
+  "website": "https://limbocaba.github.io/",
+  "linkedin": "https://www.linkedin.com/in/jorielcaba2002/",
+  "github": "https://github.com/limbocaba",
+  "email": "cabassndy@gmail.com",
+  "resume": "https://tomatohammado.github.io/assets/Malik-Hammad-Resume.pdf",
+  "proficientTechnologies": [
+      "Javascript",
+      "React",
+      "DOM",
+      "Node",
+      "Express",
+      "Mongodb",
+      "PostgreSQL",
+      "Python",
+      "Django",
+      "HTML",
+      "CSS"
+  ],
+  "otherSkills": [
+      "Teachable",
+      "Dedicated",
+      "Motivated",
+      "Determined"
+  ]
+}
+
